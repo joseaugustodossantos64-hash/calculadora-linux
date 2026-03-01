@@ -19,22 +19,22 @@ python3 --version
 
 ## Como executar o projeto
 
-1. Baixe os arquivos do repositório:
+**1.** Baixe os arquivos do repositório:
 ```bash
 https://github.com/joseaugustodossantos64-hash/calculadora-linux
 ```
 
-2. Acesse a pasta do projeto:
+**2.** Acesse a pasta do projeto:
 ```bash
 cd calculadora-linux
 ```
 
-3. Dê permissão de execução ao script:
+**3.** Dê permissão de execução ao script:
 ```bash
 chmod 744 calculadora.sh
 ```
 
-4. Execute o script:
+**4.** Execute o script:
 ```bash
 ./calculadora.sh
 ```
@@ -72,4 +72,4 @@ Este projeto foi desenvolvido como prática de:
 - Git e GitHub
 
 ## Autor
-José Santos
+José Augusto dos Santos
