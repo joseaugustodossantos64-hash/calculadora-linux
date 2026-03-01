@@ -21,7 +21,7 @@ python3 --version
 
 1. Baixe os arquivos do repositório:
 ```bash
-git clone [LINK_DO_REPOSITORIO](https://github.com/joseaugustodossantos64-hash/calculadora-linux)
+https://github.com/joseaugustodossantos64-hash/calculadora-linux
 ```
 
 2. Acesse a pasta do projeto:
