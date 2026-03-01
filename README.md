@@ -21,18 +21,22 @@ python3 --version
 
 1. Baixe os arquivos do repositório:
 ```bash
-git clone [LINK_DO_REPOSITORIO](https://github.com/joseaugustodossantos64-hash/calculadora-linux)```
+git clone [LINK_DO_REPOSITORIO](https://github.com/joseaugustodossantos64-hash/calculadora-linux)
+```
 
 2. Acesse a pasta do projeto:
 ```bash
-cd calculadora-linux```
+cd calculadora-linux
+```
 
 3. Dê permissão de execução ao script:
 ```bash
-chmod 744 calculadora.sh```
+chmod 744 calculadora.sh
+```
 
 4.Execute o script:
 ```bash
-./calculadora.sh```
+./calculadora.sh
+```
 
 O script irá executar automaticamente o programa Python da calculadora.
