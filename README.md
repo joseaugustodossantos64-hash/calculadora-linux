@@ -13,7 +13,8 @@ Este projeto consiste em uma calculadora desenvolvida em Python que é executada
 Para verificar se o Python está instalado:
 
 ```bash
-python3 --version ```
+python3 --version
+```
 
 
 ## Como executar o projeto
