@@ -34,9 +34,42 @@ cd calculadora-linux
 chmod 744 calculadora.sh
 ```
 
-4.Execute o script:
+4. Execute o script:
 ```bash
 ./calculadora.sh
 ```
 
 O script irá executar automaticamente o programa Python da calculadora.
+
+## Explicação do funcionamento
+
+O projeto possui dois arquivos principais:
+
+**calculadora.py**
+
+Arquivo responsável pela lógica da calculadora.
+Ele realiza operações matemáticas básicas conforme a entrada do usuário.
+
+**calculadora.sh**
+
+Script Shell responsável por executar o arquivo Python automaticamente.
+
+Conteúdo do script:
+```bash
+#!/bin/bash
+python3 calculadora.py
+```
+
+Este script permite que o usuário execute a calculadora com apenas um comando no terminal.
+
+## Objetivo
+
+Este projeto foi desenvolvido como prática de:
+
+- Linux
+- Shell Script
+- Integração Python
+- Git e GitHub
+
+## Autor
+José Santos
